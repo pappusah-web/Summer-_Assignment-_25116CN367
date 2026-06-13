@@ -1,0 +1,1 @@
+ // average(arr,n);
